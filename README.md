@@ -1,2 +1,4 @@
-# your-details
-can give details about them 
+your name 
+date of birth 
+github id 
+country
